@@ -1,0 +1,31 @@
+输入 /（斜杠）有提示，或者输入 /help（帮助）
+
+选项中英文说明：
+
+/newbot - create a new bot 新建一个bot
+/mybots - edit your bots [beta] 编辑你的bot
+ 
+Edit Bots
+/setname - change a bot's name 更改bot名称
+/setdescription - change bot description 更改bot描述
+/setabouttext - change bot about info 更改bot info
+/setuserpic - change bot profile photo 更改bot头像
+/setcommands - change the list of commands 设置可用命令
+/deletebot - delete a bot 删除bot
+
+Bot Settings
+/token - generate authorization token 生成token
+/revoke - revoke bot access token 吊销bottoken
+/setinline - toggle inline mode (https://core.telegram.org/bots/inline) 使bot支持发送贴纸/地址/视频/图片/文档等
+/setinlinegeo - toggle inline location requests (https://core.telegram.org/bots/inline#location-based-results) 使机器人拥有访问用户位置的权限
+/setinlinefeedback - change inline feedback (https://core.telegram.org/bots/inline#collecting-feedback) settings 收集inline bot的使用统计
+/setjoingroups - can your bot be added to groups? 设置bot能否加入群组
+/setprivacy - toggle privacy mode (https://core.telegram.org/bots#privacy-mode) in groups 设置bot在群组内的隐私模式（别人无法看见其他人发的/内容）
+
+
+Games （现阶段仅支持h5游戏，flash不会支持）
+/mygames - edit your games (https://core.telegram.org/bots/games) [beta] 编辑游戏
+/newgame - create a new game (https://core.telegram.org/bots/games) 创建新游戏
+/listgames - get a list of your games 列出你的所有游戏名称
+/editgame - edit a game 编辑游戏
+/deletegame - delete an existing game 删除现有游戏
