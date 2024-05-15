@@ -1,0 +1,135 @@
+本文目录
+一、Telegram 是什么？
+二、在中国如何使用Telegram电报？
+三、如何下载Telegram电报
+四、如何安装Telegram电报？
+五、如何注册Telegram电报？
+六、如何设置Telegram用户名？
+七、如何隐藏电话号码？
+八、如何添加Telegram好友？
+九、如何添加Telegram群组？
+Telegram中国总结：
+一、Telegram 是什么？
+电报（Telegram）简称TG，是一款加密即时通讯软件,和微信、Whatsapp ，QQ类似。Telegram在2013年由俄罗斯人杜洛夫兄弟（尼古拉·杜洛夫與保羅·杜洛夫）正式发布，开发Telegram初衷是保护用户的隐私安全，Telegram公司注册在英国伦敦，开发运营团队位于迪拜。
+
+Telegram的月活跃用户高达4亿，Telegram的所有交互消息都是加密的，而且Telegram群组是没有人数上限的。Telegram以安全、纯免费、群组无上限、使用简单。
+
+为什么要使用telegram？
+
+Telegram是全球化的即时消息软件，使用人群广泛，使用TG可以参与到各国家地区的社交活动来，别人留个TG号给你，你总要有个TG号可以加他吧！
+
+此外，TG安全可靠，没有严密网络内容审查。不用像在Wechat里面用拼音字母代替敏感关键字。Telegram将用户的数据进行加密传输，使得运营商不能监控你的聊天记录。那么运营商可能破解这些加密数据吗？
+
+二、在中国如何使用Telegram电报？
+在中国大陆是不可直接使用Telegram的，因为出国宽带防火墙屏蔽了Telegram的服务器。Telegram面向的是全球用户，有人通过Telegram去沟通和交流一些敏感信息，为了净化国内网络环境，Telegram就被防火墙拒之门外了。
+
+在国内如果要使用Telegram，就需要时代理服务去间接连接Telegram。想在国内使用Telegram，得先使用机场加速器挂梯子魔法上网。在选择工具的时候最好可以考虑以下几点。
+
+适用于手机和电脑。因为我们要登录的网站就是手机、电脑都可以浏览的，那么我们的上网工具也得做到才行。
+有多个国家节点可以切换。多节点也就是多服务器，这样平均每台服务器的负载就比较低，也就是俗称的网速更快。
+可以同时使用的设备数。设备数值越大，可以同时使用该账号的人就越多，最起码可以手机电脑一起，不用来回切换账号。
+如果你不知道怎么选择一款好用的机场加速器的话，可以点击参考文章：高速稳定SS/SSR/Trojan/V2Ray机场推荐|魔法上网机场加速器梯子推荐选择一款高速稳定的机场加速器，此文章结尾有手机/电脑使用机场加速器挂梯子上外网的详细教程，不管你是需要上google网站、youtube网站、奈飞neitflix等国外网站，学了此方法后随时随地在国内上外网。
+
+三、如何下载Telegram电报
+官方提供手机版（Android、iOS、Windows Phone）、桌面版（Windows、macOS、Linux）和网页版等多种平台客户端。
+
+推荐直接从Telegram官网上下载适用于你设备的APP客户端。Telegram官网是elegram.org  ，不是elegram.com
+
+由于TG是开源的，所以有不少带广告的版本，直接从官网下载可以避免下载到李魁版本。
+
+Telegram电报Android APP下载地址：https://telegram.org/dl/android
+Telegram电报iOS APP下载地址（适用于iPhone和iPad）：https://telegram.org/dl/ios
+Telegram电报Windows APP下载地址：https://telegram.org/dl/desktop/win
+Telegram电报MacOS APP下载地址：https://telegram.org/dl/macos
+Telegram电报Linux 64 bit APP下载地址：https://telegram.org/dl/desktop/linux
+Telegram电报Linux 32 bit APP下载地址：https://telegram.org/dl/desktop/linux32
+四、如何安装Telegram电报？
+安装Telegram电报非常简单，下面我们以Window电脑为例来介绍如何安装Telegram电报，在其他设备上安装Telegram电报的方式与Window类似。
+
+1、我们在浏览器中打开：https://telegram.org/dl/desktop/win
+
+我们在前面已经列出了“Telegram电报Windows APP下载地址”，你只需在浏览器中打开该链接，并按照提示将Telegram电报Windows APP下载到电脑本地。
+
+2、双击Telegram安装包，并默认选择“English”
+
+
+
+Telegram的语言版本中没有中文，只有英语和其他小语种，所以我们默认选择“English”即可。
+
+3、选择一个存放“Telegram安装文件”的文件夹
+
+
+
+这里需要提醒新手朋友的是：Telegram的安装文件最好存放在你电脑的D盘、E盘或者F盘中。也就是说，Telegram的安装文件尽量不要放在C盘。比如，你可以在D盘创建一个文件夹，用于存放“Telegram安装文件”。
+
+4、按照系统提示完成Telegram安装
+
+
+
+接下来就是按照系统的提示点击“Next”完成安装即可。
+
+五、如何注册Telegram电报？
+我们注册Telegram可以在网页端注册也可以在PC桌面客户端注册也可以在手机APP上注册。
+
+在国内注册Telegram电报帐号不推荐大家使用中国的+86电话号码注册。通过国内+86电话号码注册的Telegram账号无法私聊，也无法开启加密对话功能。但下文有对+86号码注册账号解除私聊限制的方法。
+
+如果没有国外的电话号码，建议通过Google Voice的美国电话号码来注册Telegram账号。如果没有google voice，可以到万能的淘宝购买一个。
+
+我们在前面已经完成了Telegram电报的安装，接下来我们还是以Windows电脑为例来给大家演示如何注册Telegram电报：
+
+1、打开已经安装好的Telegram电报APP，并点击“START MESSAGING”
+
+
+
+2、选择国家并填入对应的电话号码
+
+理论上来说，你可以使用国内的+86电话号码注册Telegram账号，也可以使用国外的电话号码去注册Telegram账号，但我们不推荐大家使用国内的+86电话号码注册。通过国内+86电话号码注册的Telegram账号无法私聊，也无法开启加密对话功能。如果你没有国外的电话号码，那么你可以通过Google Voice来注册Telegram账号。
+
+
+
+3、输入你接收到的验证码完成注册
+
+如果你使用国内号码注册Telegram，那么验证码会发送到你手机上。如果你使用Google Voice注册Telegram，那么你需要登录你的Google Voice帐号，并查看验证码。
+
+最后需要提醒大家的是：如果你使用的是我们前面推荐的机场加速器挂梯子魔法上网，那么你直接按照我们上面的步骤去注册Telegram帐号即可。如果你使用的是SSR或者V2ray等科学上网工具的话，那么就需要在Telegram的Settings – Http with proxy中设置代理。
+
+六、如何设置Telegram用户名？
+我们注册完Telegram帐号之后，默认的是没有用户名的，需要我们单独的去设置Telegram用户名。
+
+设置方法是：点击左上角的“三条杠”，然后点击“Settings”，再点击“Edit Profile”。
+
+
+
+值得注意的是，我们使用Telegram的主要目的是为了隐私，所以我们在设置Telegram用户名的时候，尽量不要使用自己的真名，也不要使用自己其他社交平台的用户名。
+
+七、如何隐藏电话号码？
+我们在前面提到过，Telegram是通过电话号码注册的，而且在默认状态下，我们的电话号码是向Telegram好友展示的。所以，为了安全考虑，请务必隐藏自己的电话号码。
+
+设置方法是：点击左上角的“三条杠”，然后点击“Settings”，再点击“Privacy and Security”，之后再选择“Phone Number”，然后再将权限设置成“My contacts” 或者“Nobody”。这样一来，就只有你的好友或者只有你自己能看到电话号码了。也可以将“Who can see my phone number”权限直接设置成为“Nobody”，并将“Who can find me by my number”的权限设置为“My contacts”。
+
+
+
+八、如何添加Telegram好友？
+Telegram的设置和使用都非常方便，当你需要添加Telegram好友时，也仅需三步即可完成。
+
+设置方法是：点击左上角的“三条杠”，然后点击“Contacts”，再在搜索框中输入你好友的用户名即可搜索添加好友了。
+
+
+
+九、如何添加Telegram群组？
+Telegram上有很多有价值的群，而且Telegram群成员的上限比较高，三五万人的群也很常见。Telegram的每个群都有唯一的一个链接地址，如果你知道群链接地址，点击链接地址并点击“Join Group”即可。如果你不知道群链接地址，你也可以通过添加Telegram机器人，然后再通过Telegram机器人找群。
+
+市面上有很多的Telegram机器人，我们以@BotFather为例给大家简单介绍下Telegram机器人的使用方法：
+
+首先，我们在Telegram的搜索框中输入“BotFather”并点击搜索，然后在搜索结果中找到“BotFather”并点击，再点击右边BotFather界面下方点击“Start”按钮即可。
+
+
+
+Telegram上有许多有意思的群组，你可以根据自己的需求去寻找和添加。
+
+如果你使用中国大陆手机号注册telegram的话，有可能能收到验证码并且成功注册telegram，但是会有私聊限制，怎么解除telegram私聊限制呢？可以参考这篇文章：Telegram无法私聊之解决办法|一分钟教你解除双向聊天限制
+
+Telegram中国总结：
+Telegram是一款非常好用且非常安全的即时通讯工具，在全球有着大量的忠实用户。但对于很多中国网民来说，Telegram却比较陌生，而且Telegram的使用方式跟国内的微信等是有些区别的。最主要的是，Telegram在国内无法使用，必须要科学上网之后才能正常使用。
+
+最后，关于“什么是Telegram电报？如何下载Telegram电报？如何注册Telegram电报帐号？怎么加Telegram电报群？”等问题，也欢迎大家给我们留言讨论。
